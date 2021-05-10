@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **class projects, and as a python instructor!**
 
-- 🌱 I’m currently learning **Flutter and React!**
+- 🌱 I’m currently learning **Flutter!**
 
 - 👯 I’m looking to collaborate on **a NetNavi project (if you've ever played megaman, you know what I'm talking about!)**
 
