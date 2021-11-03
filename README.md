@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsami07&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsami07" /> </p>
 
-- 🔭 I’m currently working on **the SoMNi project.**
+- I’m currently working on **the SoMNi project.**
 
-- 🌱 I’m currently learning **React!**
+- I’m currently learning **React!**
 
-- 👯 I’m looking to collaborate on **a NetNavi project (if you've ever played Megaman BN, you know what I'm talking about.)**
+- I’m looking to collaborate on **a NetNavi project (if you've ever played Megaman BN, you know what I'm talking about.)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
