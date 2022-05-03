@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer, currently studying in Simon Fraser University.</h3>
 
 
-- I’m currently working on **the SoMNi project.**
+- I’m currently working on **the Moodio project.**
 
 - I’m currently learning **React!**
 
