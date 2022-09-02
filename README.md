@@ -18,7 +18,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsami07&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsami07" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsami07&show_icons=true&locale=en&layout=compact" alt="ahmadsami07" /></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsami07&show_icons=true&langs_count=8&locale=en&layout=compact" alt="ahmadsami07" /></p>
 
