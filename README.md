@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Sami</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">Mobile/Web Developer at NCOL, currently studying in Simon Fraser University.</h3>
 
 
