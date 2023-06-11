@@ -1,11 +1,7 @@
 <h1 align="center">Welcome, I'm Sami</h1>
-<h3 align="center">Software Developer, currently studying in Simon Fraser University.</h3>
+<h3 align="center">Mobile/Web Developer, currently studying in Simon Fraser University.</h3>
 
 
-
-- I’m currently learning **React!**
-
-- I’m looking to collaborate on **a NetNavi project (if you've ever played Megaman BN, you know what I'm talking about.)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
